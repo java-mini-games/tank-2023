@@ -2,6 +2,6 @@ bin
 .classpath
 .project
 .gradle
-.settings
+settings
 build
 !gradle-wrapper.jar
